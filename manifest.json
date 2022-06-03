@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Crypto Spot Prices",
+  "description": "Display key Crypto token spot prices",
+  "version": "1.0",
+
+  "browser_action": {
+   "default_icon": "omw_icon.png",
+   "default_popup": "index.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
