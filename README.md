@@ -11,4 +11,4 @@ This is an example of what you can do with Covalent API, in this repo I have cre
 4. If you have trouble with these points I've made a video tutorial (italian speaking):  or you can check the Covalent Docs: https://www.covalenthq.com/docs/api/#/0/0/USD/1;
 5. Add the extension in your browser, just go in extension settings, enable "developer mode" and upload the folder that contains all of your files using the "unpacked extension" button;
 
-This is it!
+That's all folks!
